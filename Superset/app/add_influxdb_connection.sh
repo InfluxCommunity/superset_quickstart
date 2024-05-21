@@ -3,8 +3,8 @@
 # Set variables
 DOMAIN="us-east-1-1.aws.cloud2.influxdata.com"
 PORT="443"
-DATABASE="cpu"
-TOKEN="YWRSLcm7TRWlfBXH9IDqDRiMKtBKvilZc5EjB0ONScioShD3jgh_dSFzn67sPlCjRJqnFUq46zeSHQgN6NBS4w=="
+DATABASE="your_database"
+TOKEN="your_token"
 DISPLAY_NAME="InfluxDB Cloud Serverless"
 
 # Construct SQLAlchemy URI
